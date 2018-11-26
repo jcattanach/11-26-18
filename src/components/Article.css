@@ -1,0 +1,14 @@
+.article {
+  margin: 10px 40px 10px 40px;
+  padding: 5px 20px 20px 20px;
+}
+
+.article h2 {
+  color: blue;
+}
+
+.orangeBanner {
+  background-color: orange;
+  padding: 5px;
+  color: white;
+}
